@@ -1051,6 +1051,7 @@ CD:
     - "Kongo (Dem. Rep.)"
     - "Congo (Rep. Dem.)"
     - "Congo (Rep. Dem.)"
+    - "Congo (Kinshasa)"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -1106,6 +1107,7 @@ CG:
   names: 
     - Congo
     - Kongo
+    - "Congo (Brazzaville)"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -1164,6 +1166,7 @@ CI:
   name: "Côte D'Ivoire"
   names: 
     - "Côte D'Ivoire"
+    - "Cote d'Ivoire"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -3218,6 +3221,7 @@ KP:
     - Nordkorea
     - "Corée du Nord"
     - "Corea del Norte"
+    - "North Korea"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -3251,6 +3255,7 @@ KR:
     - Südkorea
     - "Corée du Sud"
     - "Corea del Sur"
+    - "South Korea"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -3895,6 +3900,7 @@ MM:
     - Myanmar
     - Myanmar
     - Myanmar
+    - Burma
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -3947,6 +3953,7 @@ MO:
   name: Macao
   names: 
     - Macao
+    - Macau
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -5026,6 +5033,7 @@ RE:
     - Réunion
     - Réunion
     - Reunión
+    - "Reunion"
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -5250,6 +5258,7 @@ SD:
     - Sudan
     - Soudan
     - Sudán
+    - South Sudan
   national_destination_code_lengths: 
     - 2
   national_number_lengths: 
@@ -6171,6 +6180,7 @@ UM:
     - "US-Amerikanische Hoheitsgebiete"
     - "Dépendances américaines"
     - "Islas menores de Estados Unidos"
+    - "Midway Islands"
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ""
